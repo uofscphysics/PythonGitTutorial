@@ -1,6 +1,6 @@
 # PythonGitTutorial
 
-[![Build Status](https://travis-ci.com/uofscphysics/PythonGitTutorial.svg?branch=master)](https://travis-ci.com/uofscphysics/PythonGitTutorial)
+[![Build Status](https://travis-ci.org/uofscphysics/PythonGitTutorial.svg?branch=master)](https://travis-ci.org/uofscphysics/PythonGitTutorial)
 
 Your task:
 - Fork this repository, so you have your open copy.
