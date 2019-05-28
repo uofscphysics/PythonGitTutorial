@@ -1,13 +1,15 @@
 {
   "Vehicle": {
-    "Type": "car",
-    "Wheel_count": 4,
-    "Make": "Tesla",
-    "Model": "S",
-    "Year": 2012,
+    "Type": "...",
+    "Wheels": 0,
+    "Doors": 0,
+    "Make": "...",
+    "Model": "...",
+    "Year": 0,
     "Engine": {
-      "Type": "Electric",
-      "HorsePower": 503
+      "Type": "...",
+      "HorsePower": 0,
+      "MPG": 0.0
     }
   }
 }
