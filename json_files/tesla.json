@@ -1,0 +1,15 @@
+{
+  "Vehicle": {
+    "Type": "car",
+    "Wheels": 4,
+    "Doors": 5,
+    "Make": "Tesla",
+    "Model": "S",
+    "Year": 2012,
+    "Engine": {
+      "Type": "Electric",
+      "HorsePower": 503,
+      "MPG": 0.0
+    }
+  }
+}
