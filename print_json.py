@@ -11,6 +11,7 @@ json_files = [
 for file_name in json_files:
     with open(file_name) as fil:
         json_data = json.load(fil)
+        assert "Vehicle" in json_data
         for key in json_data["Vehicle"]:
             print(
                 f'{Fore.GREEN}{key}{Style.RESET_ALL}: {Fore.BLUE}{json_data["Vehicle"][key]}{Style.RESET_ALL}'
