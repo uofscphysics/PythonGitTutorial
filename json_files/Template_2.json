@@ -1,0 +1,15 @@
+{
+  "Vehicle": {
+    "Type": "...",
+    "Wheels": 3,
+    "Doors": 1,
+    "Make": "Toyota",
+    "Model": "Bike",
+    "Year": 2025,
+    "Engine": {
+      "Type": "Super700Hp",
+      "HorsePower": 700,
+      "MPG": 200.3
+    }
+  }
+}
