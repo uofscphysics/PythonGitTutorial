@@ -13,5 +13,5 @@ Your tasks:
 
 
 For Advanced users:
-- Save the vehicle class example we used earlier as a json file and place it in the json_files directory.
+- Create a vehicle class which takes the features of the class and saves them to a json file.
 - Try to add a feature to the print_json.py program.
