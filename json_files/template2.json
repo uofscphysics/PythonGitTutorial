@@ -1,0 +1,15 @@
+{
+  "Vehicle": {
+    "Type": "...",
+    "Wheels": 4,
+    "Doors": 4,
+    "Make": "Ford",
+    "Model": "Focus",
+    "Year": 2008,
+    "Engine": {
+      "Type": "Internal combustion",
+      "HorsePower": 90000,
+      "MPG": 20.0
+    }
+  }
+}
