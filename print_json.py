@@ -13,7 +13,7 @@ for file_name in json_files:
         json_data = json.load(fil)
         for key in json_data["Vehicle"]:
             print(
-                f'{Fore.GREEN}{key}{Style.RESET_ALL}: {Fore.BLUE}{json_data["Vehicle"][key]}{Style.RESET_ALL}'
+                f'{Fore.RED}{key}{Style.RESET_ALL}: {Fore.BLUE}{json_data["Vehicle"][key]}{Style.RESET_ALL}'
             )
         print("")
 
