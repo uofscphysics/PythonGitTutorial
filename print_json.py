@@ -16,7 +16,8 @@ for file_name in json_files:
             print(
                 f'{Fore.GREEN}{key}{Style.RESET_ALL}: {Fore.BLUE}{json_data["Vehicle"][key]}{Style.RESET_ALL}'
             )
-        print("***")
+
+        print("===")
 
 print("Done!")
 
